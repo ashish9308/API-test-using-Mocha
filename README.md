@@ -26,3 +26,11 @@ A very basic but very useful example. This example will show you how to write a 
 5) Fire up Mocha to run the tests!
 >$ mocha
 
+6) Fire up Mocha with reporter mochawesome to run the tests and generate reports!
+>$ mocha test.js --reporter mochawesome
+
+7) Want to know more about mochawsome reporter please go to this link
+>https://github.com/adamgruber/mochawesome
+
+
+
