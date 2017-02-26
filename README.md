@@ -10,6 +10,10 @@ A very basic but very useful example. This example will show you how to write a 
 * Easy to write new tests
 * Generate cool report using mochawsome
 
+# Sample Report
+
+![picture alt](https://github.com/ashish9308/API-test-using-Mocha/blob/master/report.JPG)
+
 # Installation
 
 1) Install node.js, by either crack open your favourite package manager: typically apt-get install nodejs on Debian/Ubuntu Linux, brew install node on a Mac or directly from the website http://nodejs.org
