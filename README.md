@@ -3,11 +3,11 @@ A very basic but very useful example. This example will show you how to write a 
 
 
 # Features
-Written in JavaScript
-Hits the Galactic endpoints from the outside world
-Assertions on the JSON response
-Quick and efficent
-Easy to write new tests
+* Written in JavaScript
+* Hits the Galactic endpoints from the outside world
+* Assertions on the JSON response
+* Quick and efficent
+* Easy to write new tests
 
 # Installation
 
