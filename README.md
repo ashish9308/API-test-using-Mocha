@@ -12,7 +12,7 @@ A very basic but very useful example. This example will show you how to write a 
 
 # Sample Report
 
-![picture alt](https://github.com/ashish9308/API-test-using-Mocha/blob/master/report.JPG)
+![report](https://github.com/ashish9308/API-test-using-Mocha/blob/master/report.jpg)
 
 # Installation
 
