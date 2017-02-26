@@ -1,5 +1,5 @@
 # API-test-using-Mocha
-A very basic but very useful example. This example will show you how to write a sample unit test using mocha and chai.
+A very basic but very useful example. This example will show you how to write a sample unit test using mocha and generate a report of the test using mochawesome.
 
 
 # Features
@@ -8,6 +8,7 @@ A very basic but very useful example. This example will show you how to write a 
 * Assertions on the JSON response
 * Quick and efficent
 * Easy to write new tests
+* Generate cool report using mochawsome
 
 # Installation
 
