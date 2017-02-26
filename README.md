@@ -16,4 +16,13 @@ A very basic but very useful example. This example will show you how to write a 
 2)Clone the repository from github:
 > $ git clone https://github.com/therollingtester/mocha-starwars-apitests.git
 
+3)CD into the repository 
+> $ cd API-test-using-Mocha
+
+4)Install all the dependencies by:
+>$ npm install
+
+5) Fire up Mocha to run the tests!
+>$ mocha
+
 
